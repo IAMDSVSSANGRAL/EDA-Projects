@@ -73,32 +73,7 @@ Multivariate Analysis:When more than two variables must be studied at once, mult
 Data Cleaning:Data cleaning - We'll purge the dataset of errors, outliers, and category variables.
 
 Testing Hypothesis: We will determine whether our data complies with the presumptions needed by the majority of multivariate procedures.
-
-## Business Objective
-Data scientists use exploratory data analysis (EDA) to examine data sets for patterns and abnormalities (outliers), formulate hypotheses based on our understanding of the information, and describe their key characteristics.
-
-Data visualisation techniques are frequently used in exploratory data analysis. In any project involving data analysis or data science, it is a crucial stage.
-
-It assists in deciding how to best modify data sources to obtain the desired results.
-
-In order to better comprehend the data and make it more visually appealing and appealing, EDA entails producing summary statistics for the dataset's numerical data.
-
-The many steps in the EDA process are as follows:
-
-Problem statement: We will discuss and analyse the provided data set. We'll examine the traits it has and attempt to conduct a philosophical examination of their significance for this issue.
-
-Hypothesis:Studying the attributes in the data base will help us establish some fundamental hypotheses that we can use to play around with the data and see what interesting outcomes we can find.
-
-Univariate Analysis: Univariate analysis is the most basic type of data analysis. In order to start, we would choose just one quality and thoroughly examine it. It deals with no co-relation whatsoever, and its primary goal is to describe. Data is taken, summarised, and patterns are discovered within the data.
-
-Bivariate analysis: This type of analysis focuses on causality and the connection between two variables. We shall make an effort to comprehend how qualities are interdependent.
-
-Multivariate Analysis:When more than two variables must be studied at once, multivariate analysis is used.
-
-Data Cleaning:Data cleaning - We'll purge the dataset of errors, outliers, and category variables.
-
-Testing Hypothesis: We will determine whether our data complies with the presumptions needed by the majority of multivariate procedures.
-![Logo](https://media.licdn.com/dms/image/C4D12AQH3wdBztxsxTw/article-cover_image-shrink_720_1280/0/1607186430192?e=2147483647&v=beta&t=cgKRMvrCmEEQim-np4xn5f7MokY57tgfbolaYm2DLO0)![Logo](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OIVY4TP3IRC7LP3G4RF3KHX5UU.jpg)
+![Logo](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OIVY4TP3IRC7LP3G4RF3KHX5UU.jpg)
 ## After Dataset first view What we know about dataset
 1. After reviewing the data set I saw that there are 10841 rows and 13 columns in the play store Data.csv file.
 
@@ -278,4 +253,3 @@ We have worked on a number of metrics as part of this study to analyse play stor
 6. We can investigate the impact of the app's size and Android version on the quantity of installs.
 
 7. By creating models that can help us interpret even better, machine learning can assist us in deploying more insights. Although this is something we can work on, we have left it for later.
-Thank you Almabetter for the opportunity 
